@@ -1,1 +1,6 @@
 build/linux-x86
+*.bin
+*.der
+*.pem
+*.key
+*.bin1
